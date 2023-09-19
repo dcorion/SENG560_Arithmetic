@@ -6,6 +6,7 @@ To add a new arithmetic function to this library:
   - create an implementation of the new interface with a new class
   - set the Arithmetic class to implemenent the new interface
   - use the new class to implement the required methods in the Arithmetic class
+    
 To add new datatypes to be used with the arithmetic functions, add them to the interfaces:
   - implement required methods in classes used to implement the arithmetic methods for the interfaces
   - implement the required methods in the Arithmetic class with the newly added methods
